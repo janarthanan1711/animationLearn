@@ -1,5 +1,4 @@
 import 'package:animation_starter_code/explicit_examples/login_animation.dart';
-import 'package:animation_starter_code/implicit_examples/animated_tween_animation_builder_example.dart';
 import 'package:flutter/material.dart';
 
 void main() {
