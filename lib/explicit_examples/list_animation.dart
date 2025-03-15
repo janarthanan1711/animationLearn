@@ -5,7 +5,7 @@ class ListAnimation extends StatefulWidget {
 
   @override
   State<ListAnimation> createState() => _ListAnimationState();
-}
+} 
 
 class _ListAnimationState extends State<ListAnimation>
     with SingleTickerProviderStateMixin {
